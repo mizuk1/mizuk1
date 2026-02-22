@@ -39,7 +39,7 @@ Conversational agents built with LangGraph exploring tool usage, memory, and dec
 - **CS50's Web Programming with Python and JavaScript** – Harvard University (2024)  
 - **CS50's Introduction to Computer Science** – Harvard University (2024)  
 - **CS50's Introduction to Programming with Python** – Harvard University (2024)
-- 
+
 ---
 
 ## 💻 Tech Stack
